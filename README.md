@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Aldino 👋
 
+I'm a junior developer who is passionate about making learning all javascript technology. And some technologies I enjoy working with include ReactJS, VueJS, NodeJS.
 <!--
 **Aldinonid/Aldinonid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
