@@ -1,4 +1,4 @@
-### Hi, I'm Aldino 👋
+# Hi, I'm Aldino 👋 
 
 I'm a junior developer who is passionate about making learning all javascript technology. And some technologies I enjoy working with include ReactJS, VueJS, NodeJS.
 <!--
