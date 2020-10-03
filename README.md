@@ -12,6 +12,13 @@
 
 Junior developer who passionate about learning all javascript technology. Some technologies that I enjoy working with include React, NodeJS and VueJS.
 
+[Get know me!](https://www.aldinonid.me)
+
+## **Stats**
+![fdciabdul github stats](https://github-readme-stats.vercel.app/api?username=Aldinonid&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldinonid&layout=compact)](https://github.com/aldinonid)
+
 <!--
 **Aldinonid/Aldinonid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
