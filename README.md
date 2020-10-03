@@ -14,7 +14,6 @@ Junior developer who passionate about learning all javascript technology. Some t
 
 [Get know me!](https://www.aldinonid.me)
 
-## **Stats**
 ![fdciabdul github stats](https://github-readme-stats.vercel.app/api?username=Aldinonid&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldinonid&layout=compact)](https://github.com/aldinonid)
