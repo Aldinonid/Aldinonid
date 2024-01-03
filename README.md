@@ -10,7 +10,8 @@
 &nbsp;&nbsp;
 <a href="https://www.youtube.com/aldinonid" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384060.svg" alt="alt text" width="20" height="20"></a>
 
-Junior developer who passionate about learning all javascript technology. Some technologies that I enjoy working with include React, NodeJS and VueJS.
+Junior developer who passionate about learning all javascript technology. Some technologies that I enjoy working with include React, NextJS, Node.js and Nest.js.
+Beside that, I'm also like to learn all about iOS Development
 
 [Get know me!](https://www.aldinonid.me)
 
