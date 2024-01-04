@@ -4,7 +4,7 @@
 
 [![Linkedin][Linkedin.com]][Linkedin-url]
 
-Junior developer who passionate about learning all javascript technology. 
+Junior developer who passionate about learning all javascript and swift technology related. 
 
 <br />
 
